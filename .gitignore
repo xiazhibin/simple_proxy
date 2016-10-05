@@ -1,0 +1,26 @@
+_Store
+.DS_Store?
+._*
+
+
+# For develop environment
+/.idea
+
+
+# For pyenv
+.python-version
+
+
+# For python
+*.pyc
+*.pyo
+/.cache
+/instance
+test.py
+test2.py
+
+
+# For log
+log
+*.log
+/log
